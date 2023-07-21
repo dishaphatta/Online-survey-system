@@ -1,0 +1,51 @@
+{
+  "question": [
+    "Q1. What is your opinion about comfort of Honda cars's?",
+    "Q2. What is the evalution about speed and mileage?",
+    "Q3. Please rate on the  basis of engine power of this Honda car?",
+    "Q4. How satisfied are you with the service?",
+    "Q5. What do you think of apperance of our comapany's car?",
+    "Q6. What is your overall experience?"
+
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    3
+
+  ],
+  "options": [
+ ["Excellent",
+        "Very Good",
+        "Good",
+        "Average"
+      ],
+      ["Excellent",
+        "Very Good",
+        "Good",
+        "Average"
+   ],
+    ["Excellent",
+        "Very Good",
+        "Good",
+        "Average"
+      ],
+      ["Excellent",
+        "Very Good",
+        "Good",
+        "Average"
+   ],
+    ["Excellent",
+        "Very Good",
+        "Good",
+        "Average"
+      ],
+      ["Excellent",
+        "Very Good",
+        "Good",
+        "Average"
+        ]
+  ]
+}
